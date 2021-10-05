@@ -1,0 +1,10 @@
+[SwitchyOmega Conditions]
+@with result
+
+*.pixiv.net +jp
+*.dmm.com +jp
+*.jp +jp
+203.104.209.7 +jp
+*.spotify.com +jp
+
+* +direct
